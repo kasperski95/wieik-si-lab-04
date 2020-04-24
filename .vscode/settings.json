@@ -11,5 +11,11 @@
     "-NoExit",
     "-Command",
     "${workspaceFolder}/scripts/activate-env.ps1"
+  ],
+  "cSpell.words": [
+    "dataset",
+    "heatmap",
+    "overfitting",
+    "wieik"
   ]
 }
