@@ -2,7 +2,8 @@
   "files.exclude": {
     "**/__pycache__": true,
     "env/": true,
-    "wandb/": true
+    "wandb/": true,
+    "scripts/": true
   },
   "python.formatting.blackArgs": ["--line-length=140"],
   "python.pythonPath": "F:\\Repos\\wieik-si-lab-04\\env\\Scripts\\python.exe",
