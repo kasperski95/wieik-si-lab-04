@@ -1,8 +1,30 @@
-# wieik-si-lab-04
+# wieik-si-lab-04 
+
+- [wieik-si-lab-04](#wieik-si-lab-04)
+  - [Task 1](#task-1)
+    - [Compare decision tree regressor with any other regressor.](#compare-decision-tree-regressor-with-any-other-regressor)
+  - [Task 2](#task-2)
+    - [Check influence of number of trees](#check-influence-of-number-of-trees)
+    - [Compare Random Forest with any other classifier (eg. logistic regression)](#compare-random-forest-with-any-other-classifier-eg-logistic-regression)
+    - [Compare Gini and Entropy](#compare-gini-and-entropy)
+  - [Task 3](#task-3)
+    - [Experiment with face recreation using random forest. Save results.](#experiment-with-face-recreation-using-random-forest-save-results)
+- [Notes](#notes)
+  - [Random Forests](#random-forests)
+  - [Bootstrapping](#bootstrapping)
+  - [Bagging](#bagging)
+  - [Missing data](#missing-data)
+    - [in the original dataset](#in-the-original-dataset)
+    - [in sample to categorize](#in-sample-to-categorize)
+  - [Regression Trees](#regression-trees)
+    - [Preventing overfitting](#preventing-overfitting)
+    - [Random vs Extra Trees](#random-vs-extra-trees)
+
+--- 
 
 ## Task 1
 
-Compare decision tree regressor with any other regressor.
+### Compare decision tree regressor with any other regressor.
 
 ![task-1-chart](output/01.png)
 
@@ -32,7 +54,9 @@ Compare decision tree regressor with any other regressor.
 [4][Entropy] accuracy:  0.45
 ```
 
-## Experiment with face recreation using random forest. Save results.
+## Task 3
+
+### Experiment with face recreation using random forest. Save results.
 
 ![face](output/03-0.png)
 ![face](output/03-23.png)
