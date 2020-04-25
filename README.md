@@ -32,6 +32,12 @@ Compare decision tree regressor with any other regressor.
 [4][Entropy] accuracy:  0.45
 ```
 
+## Experiment with face recreation using random forest. Save results.
+
+![face](output/03-0.png)
+![face](output/03-23.png)
+![face](output/03-34.png)
+
 # Notes
 
 ## Random Forests
@@ -71,3 +77,7 @@ Data is split by finding the threshold that gave the smallest sum of squared res
 ### Preventing overfitting
 
 - minimum number to split
+
+### Random vs Extra Trees
+
+![random-vs-extra-trees](./readme/random-vs-extra-trees.png)

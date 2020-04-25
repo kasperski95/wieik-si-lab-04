@@ -17,6 +17,7 @@
     "cmap",
     "dataset",
     "heatmap",
+    "hstack",
     "imshow",
     "numpy",
     "overfitting",

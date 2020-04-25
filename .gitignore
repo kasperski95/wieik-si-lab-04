@@ -2,3 +2,5 @@ env/
 __pycache__/
 wandb/
 *.ipynb
+output/03-faces/*.png
+output/03-model.pkl
