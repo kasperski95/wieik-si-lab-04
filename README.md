@@ -1,6 +1,12 @@
 # wieik-si-lab-04
 
-# Theory
+## Task 1
+
+Compare decision tree regressor with any other regressor.
+
+![task-1-chart](output/01.png)
+
+# Notes
 
 ## Random Forests
 
