@@ -13,8 +13,11 @@
     "${workspaceFolder}/scripts/activate-env.ps1"
   ],
   "cSpell.words": [
+    "Gini",
+    "cmap",
     "dataset",
     "heatmap",
+    "imshow",
     "numpy",
     "overfitting",
     "pyplot",

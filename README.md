@@ -6,6 +6,32 @@ Compare decision tree regressor with any other regressor.
 
 ![task-1-chart](output/01.png)
 
+## Task 2
+
+### Check influence of number of trees
+
+![task-2-chart](output/02-a.png)
+
+### Compare Random Forest with any other classifier (eg. logistic regression)
+
+```
+[RandomForestClassifier]  time of training: 4.98  accuracy:  0.84375
+[LogisticRegression]      time of training: 5.07  accuracy:  0.9125
+```
+
+### Compare Gini and Entropy
+
+```
+[1][Gini] accuracy:  0.525
+[1][Entropy] accuracy:  0.45
+[2][Gini] accuracy:  0.525
+[2][Entropy] accuracy:  0.4625
+[3][Gini] accuracy:  0.525
+[3][Entropy] accuracy:  0.475
+[4][Gini] accuracy:  0.53125
+[4][Entropy] accuracy:  0.45
+```
+
 # Notes
 
 ## Random Forests
